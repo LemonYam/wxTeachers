@@ -32,7 +32,7 @@
     "mem": "^4.0.0",
     "miniprogram-api-typings": "^2.9.2",
     "mpvue": "^2.0.0",
-    "serialize-javascript": "^2.1.2",
+    "serialize-javascript": "^3.1.0",
     "ts-loader": "^3.1.1",
     "typescript": "^3.3.3333",
     "vue": "^2.6.10",
